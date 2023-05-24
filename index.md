@@ -36,7 +36,7 @@ The SWxSOC processing Pipeline makes use of AWS. The following open source tools
 * **[S3Watcher](https://github.com/HERMES-SOC/sdc_aws_s3watcher)** : A filewatcher system that can be configured to watch an AWS S3 bucket new files and then download them onto a local machine.
 * **[sdc_aws_grafana_dashboard_backups](https://github.com/HERMES-SOC/sdc_aws_grafana_dashboard_backups)** : Backs up deployed dashboards as JSON models on https://grafana.hermes.swsoc.smce.nasa.gov/ daily
 
-For more see the [HERMES repository list](https://github.com/HERMES-SOC/).
+For more see the [SWxSOC organization page](https://github.com/swxsoc) and the [HERMES repository list](https://github.com/HERMES-SOC/).
 
 # Contact Us
 For more information contact [steven.christe@nasa.gov](mailto:steven.christe@nasa.gov).
