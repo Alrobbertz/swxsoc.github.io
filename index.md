@@ -44,6 +44,5 @@ For more see the [SWxSOC organization page](https://github.com/swxsoc) and the [
 * [AGU 2023 (Fall Meeting)](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1401056), Robbertz, Andrew, Rager, Amy C., Barrous-Dume, Damian, Skeberdis, Daniel, Christe, Steven, Kreisler, Steve, Mercer, Tony, & Paterson, William R. (2023, December 4). HERMES Core and Instrument Python Packages. Zenodo. [https://doi.org/10.5281/zenodo.10257716](https://doi.org/10.5281/zenodo.10257716)
 * [AGU 2023 (Fall Meeting)](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1355329), Damian Barrous-Dume, Amy Catherine Rager, Andrew Robbertz, Daniel Skeberdis, Steven Christe, Steve Kreisler, Tony Mercer, & William R Paterson. (2023, December 8). Open Science in Action: SWxSOC's Role in Accelerating Data Release and Cloud Processing for Heliophysics Missions. Zenodo. [https://doi.org/10.5281/zenodo.8408028](https://doi.org/10.5281/zenodo.8408028)
 
-
 # Contact Us
 For more information contact [steven.christe@nasa.gov](mailto:steven.christe@nasa.gov).
